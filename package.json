@@ -14,7 +14,7 @@
     "core-js": "^3.4.3",
     "dhtmlx-gantt": "^6.3.4",
     "es6-promise": "^4.2.8",
-    "firebase": "^7.6.1",
+    "firebase": "^7.24.0",
     "node": "^13.3.0",
     "save": "^2.4.0",
     "serve": "^11.2.0",
